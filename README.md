@@ -1,7 +1,7 @@
 # Optimizing-Healthcare-Delivery-through-Data-Analytics
 This project delivers key insights into patient trends, hospital stays, and costs at Massachusetts General Hospital. Through data visualization, we explore admissions, readmissions, average costs, and insurance coverage to inform and optimize healthcare delivery and financial performance.
 
-###Project Description:
+##Project Description:
 
 Goals: The primary goals of this project were to analyze patient trends, hospital stay durations, and financial metrics at Massachusetts General Hospital. By leveraging data visualization and analysis, we aimed to provide actionable insights that could improve patient care, optimize hospital operations, and enhance financial performance.
 Business Needs: Massachusetts General Hospital needed a comprehensive understanding of:
