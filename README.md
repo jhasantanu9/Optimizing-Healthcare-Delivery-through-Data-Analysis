@@ -65,6 +65,8 @@ The project provided Massachusetts General Hospital with valuable insights into 
 
 
     Open the Tableau workbook `Woorkbook(MGH).twb` to explore the interactive dashboards and visualizations.
+    or Visit this link
+    https://public.tableau.com/views/MavenHospitalChallenge/Specific?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
 
