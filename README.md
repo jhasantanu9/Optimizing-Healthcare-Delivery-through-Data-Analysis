@@ -1,4 +1,4 @@
-# Optimizing Healthcare Delivery through Data Analytics
+# Optimizing Healthcare Delivery through Data Analysis
 
 ## Project Overview
 
