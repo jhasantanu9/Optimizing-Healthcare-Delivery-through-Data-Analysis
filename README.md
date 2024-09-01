@@ -24,7 +24,7 @@ Addressing these needs helps hospital executives make informed decisions, improv
 
 ### Data Collection and Preparation
 
-- **Data Source:** Synthetic data on ~1,000 patients of Massachusetts General Hospital from 2011-2022, including patient demographics, insurance coverage, and medical encounters & procedures.
+- **Data Source:** Data on ~1,000 patients of Massachusetts General Hospital from 2011-2022, including patient demographics, insurance coverage, and medical encounters & procedures.
 - **Preparation:** Cleaned and organized the data to ensure accuracy and consistency based on the provided data dictionary in Excel.
 
 ### Data Analysis
